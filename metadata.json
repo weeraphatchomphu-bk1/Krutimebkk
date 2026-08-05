@@ -1,0 +1,6 @@
+{
+  "name": "นักสืบจับใจความ By Kru’ Time",
+  "description": "เกมการศึกษาภาษาไทย สำหรับนักเรียนชั้น ป.3 เรื่องการอ่านจับใจความสำคัญ (5W1H) พร้อมระบบคลังเกียรติยศและบันทึกคะแนน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
